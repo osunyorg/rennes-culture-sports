@@ -12,6 +12,8 @@ fr:
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
+    organizations: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
   taxonomies:
     administrator: administrators
     author: authors
