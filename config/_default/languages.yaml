@@ -2,7 +2,7 @@
 
 fr:
   title: >-
-    Culture Sports
+    A SUPPRIMER - Culture et Sports
   contentDir: content/fr
   languageCode: fr
   languageName: Français
@@ -25,6 +25,7 @@ fr:
     pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
+    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers
