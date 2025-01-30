@@ -20,4 +20,9 @@ items:
   kind: blank
   new_tab: false
   children: []
+- title: Nos actions
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
