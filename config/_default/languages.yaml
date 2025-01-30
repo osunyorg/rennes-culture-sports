@@ -11,8 +11,6 @@ fr:
 
   permalinks:
     pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
     organizations_categories: /organisations/categories/:slug/
   taxonomies:
