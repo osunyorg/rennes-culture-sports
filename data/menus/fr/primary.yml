@@ -1,11 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Nos actions
-  target: "/tous-nos-actions/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/tous-nos-actions"
-  file: content/fr/pages/tous-nos-actions/_index.html
+items: []
 
