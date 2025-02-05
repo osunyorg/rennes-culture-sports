@@ -1,4 +1,9 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Fiches pratiques
+  target: https://culture-sports.rennes.osuny.site/type-de-contenu/fiches-pratiques/
+  kind: url
+  new_tab: false
+  children: []
 
