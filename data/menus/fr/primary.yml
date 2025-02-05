@@ -1,13 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Fiches pratiques
-  target: "/toutes-les-fiches-pratiques/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/toutes-les-fiches-pratiques"
-  file: content/fr/pages/toutes-les-fiches-pratiques/_index.html
 - title: Nos actions
   target: "/tous-nos-actions/"
   kind: page
