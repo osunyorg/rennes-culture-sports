@@ -49,34 +49,34 @@ design:
 position: 1
 weight: 1
 pages_categories:
-  - "tags/culture"
   - "type-de-contenu/fiches-pratiques"
-  - "tags/aides"
+  - "culture"
+  - "aides"
 taxonomies:
   - name: "Catégories"
     slug: ""
     path: ""
+    categories:
+      - permalink: "/culture/"
+        path: "/pages_categories/culture"
+        slug: "culture"
+        file: "content/fr/pages_categories/culture/_index.html"
+        name: "Culture"
+      - permalink: "/tags/aides/"
+        path: "/pages_categories/aides"
+        slug: "aides"
+        file: "content/fr/pages_categories/aides/_index.html"
+        name: "Aides"
+
+  - name: "Type de contenu"
+    slug: "type-de-contenu"
+    path: "/pages_categories/type-de-contenu"
     categories:
       - permalink: "/type-de-contenu/fiches-pratiques/"
         path: "/pages_categories/type-de-contenu/fiches-pratiques"
         slug: "type-de-contenu/fiches-pratiques"
         file: "content/fr/pages_categories/type-de-contenu/fiches-pratiques/_index.html"
         name: "Fiches pratiques"
-
-  - name: "Thématiques Culture et Sports"
-    slug: "tags"
-    path: "/pages_categories/tags"
-    categories:
-      - permalink: "/tags/culture/"
-        path: "/pages_categories/tags/culture"
-        slug: "tags/culture"
-        file: "content/fr/pages_categories/tags/culture/_index.html"
-        name: "Culture"
-      - permalink: "/tags/aides/"
-        path: "/pages_categories/tags/aides"
-        slug: "tags/aides"
-        file: "content/fr/pages_categories/tags/aides/_index.html"
-        name: "Aides"
 
 
 translationKey: communication-website-page-060d03f3-aca1-4405-be48-af2e76c4d050
