@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Fiches d'informations
-  target: "/types-de-contenus/fiches-informations/"
+  target: "/rubrique/fiches-informations/"
   kind: url
   new_tab: false
   children: []
