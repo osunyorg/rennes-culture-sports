@@ -24,4 +24,4 @@ deployment:
   workers: 2
   targets:
     - name: "production"
-      URL: "s3://culture-sports.rennes.osuny.site?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage&awssdk=v1"
+      URL: "s3://culture-sport.metropole.rennes.fr?endpoint=garage.deuxfleurs.fr&s3ForcePathStyle=true&region=garage&awssdk=v1"
