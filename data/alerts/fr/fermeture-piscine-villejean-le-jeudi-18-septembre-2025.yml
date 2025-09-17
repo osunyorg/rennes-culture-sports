@@ -4,4 +4,10 @@ title: >-
 level: warning
 content: >-
   
+button:
+  title: >-
+    Consulter les horaires spécifiques pour le 18 septembre 2025
+  url: >-
+    https://culture-sport.metropole.rennes.fr/les-horaires-des-piscines/
+  target_blank: false
 ---
